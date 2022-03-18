@@ -31,7 +31,7 @@ The latest stable version can always be installed or updated via pip:
 
 .. code-block:: bash
 
-    $ pip install --update holidays
+    $ pip install --upgrade holidays
 
 
 Documentation
